@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  font-size: large;
+}
+
+.ass {
+  padding: 10px;
+  padding-left: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.ass li {
+  margin: 0px 5px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
