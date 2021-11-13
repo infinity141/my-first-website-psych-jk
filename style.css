@@ -53,3 +53,8 @@ a {
 .holy-stuff p {
   font-size: xx-large;
 }
+
+.holy-stuff .para {
+  font-weight: lighter;
+  font-size: xx-small;
+}
